@@ -69,7 +69,7 @@ nav{
 .menu a{
 	transition: 0.5s;
 }
-.menu a:hover{
+.menu a:hover{ 
 	text-decoration:underline;
 }
 /*шапка сайта*/
